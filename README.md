@@ -1,6 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Passos</h1>
 
-- 🔭 I’m currently working on [**Hapvida**](https://www.hapvida.com.br/site/)
 - 🌱 I’m currently learning **Python, Docker, Kubernetes**
 - 💬 Ask me about **JavaScript, React, HTML, CSS, SQL**
 - 📫 How to reach me: **lucasplpx@gmail.com**
