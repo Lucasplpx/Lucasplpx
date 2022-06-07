@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Passos</h1>
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"  height="25">, I'm Lucas Passos</h1>
 
 - 🌱 I’m currently learning **Python, Docker, Kubernetes**
 - 💬 Ask me about **JavaScript, React, HTML, CSS, SQL**
