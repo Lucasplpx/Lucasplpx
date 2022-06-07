@@ -64,7 +64,7 @@
 </a>
 
 <div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Lucasplpx&show_icons=true" alt="lucaspassos"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=Lucasplpx&show_icons=true&theme=radical" alt="lucaspassos"/>
 </div>
 
 <!--
