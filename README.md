@@ -1,81 +1,27 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"  height="25">, I'm Lucas Passos</h1>
+<h1 align="center">Lucas Passos</h1>
 
-- 🌱 I’m currently learning **Python, Docker, Kubernetes**
-- 💬 Ask me about **JavaScript, React, VueJS, HTML, CSS, SQL**
-- 📫 How to reach me: **lucasplpx@gmail.com**
-- ⚡ My Interests **Oneye 😜**
+<p align="center">
+  Full Stack Developer &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Node.js
+</p>
 
-<p align="left">
-<a class="topic" href="https://github.com/topics/nodejs">
-  <img
-    src="https://raw.githubusercontent.com/github/explore/fd96fceccf8c42c99cbe29cf0f8dcc4736fcb85a/topics/nodejs/nodejs.png"
-    width="25" height="25" alt="NodeJS" />
-</a>
-<a class="topic" href="https://github.com/topics/javascript">
-  <img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-    width="25" height="25" alt="JavaScript" />
-</a>
+<br/>
 
-<a class="topic" href="https://github.com/topics/typescript">
-  <img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
-    width="25" height="25" alt="TypeScript" />
-</a>
+**Stack**
 
-<a class="topic" href="https://github.com/topics/docker">
-<img
-  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"
-  width="25" height="25" alt="Docker" />
-</a>
-<a class="topic" href="https://github.com/topics/kubernetes">
-  <img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"
-    width="25" height="25" alt="Kubernetes" />
-</a>
-<a class="topic" href="https://github.com/topics/python">
-  <img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
-    width="25" height="25" alt="Python" />
-</a>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<a class="topic" href="https://github.com/topics/react">
-  <img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-    width="25" height="25" alt="React" />
-</a>
+**Currently learning:** Kubernetes
 
-<a class="topic" href="https://github.com/topics/html">
-  <img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-    width="25" height="25" alt="HTML" />
-</a>
+<br/>
 
-<a class="topic" href="https://github.com/topics/css">
-  <img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-    width="25" height="25" alt="CSS" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucasplpx&show_icons=true&theme=default&hide_border=true&count_private=true" />
 
-<a class="topic" href="https://github.com/topics/sass">
-  <img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"
-    width="25" height="25" alt="Sass" />
-</a>
+<br/>
 
-<div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Lucasplpx&show_icons=true&theme=radical" alt="lucaspassos"/>
-</div>
-
-<!--
-**Lucasplpx/Lucasplpx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 lucaspassosdev@gmail.com
